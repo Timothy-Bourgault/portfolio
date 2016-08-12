@@ -1,0 +1,93 @@
+body {
+  text-align: center;
+  background-image: linear-gradient(black, black, grey, white, white);
+}
+
+h1 {
+  color: #3cb371;
+  font-family: Cambria, Georgia, serif;
+	font-weight: bolder;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 90px;
+  padding-bottom: 40px;
+  padding-top: 20px;
+}
+
+h2 {
+  color: #90ee90;
+  font-size: 40px;
+  font-family: fantasy;
+	font-style: normal;
+	font-variant-east-asian: normal;;
+	font-weight: 500;
+	line-height: 40px;
+}
+
+li {
+  color: white;
+}
+
+.self {
+  color: white;
+  margin-top: 0em;
+  margin-bottom: 4em;
+  margin-right: 2em;
+  text-align: right;
+}
+
+.self-title {
+  font-size: 50px;
+  color: white;
+  margin-top: 1em;
+  font-family: fantasy;
+}
+
+.logo {
+  margin-top: 8em;
+  height: 15em;
+  width: 15em;
+}
+
+.name {
+  font-size: 80px;
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+  font-family: fantasy;
+}
+
+.form {
+  font-weight: bolder;
+  font-style: oblique;
+  color: #ffb6c1;
+}
+
+.bottom {
+  color: black;
+  font-weight: bolder;
+  margin-top: 4em;
+}
+
+.bottom2 {
+  color: black;
+  font-weight: bolder;
+  margin-top: .5em;
+  margin-bottom: 2em;
+}
+
+.mid-bottom {
+  color: grey;
+  margin-top: 4em;
+}
+
+.skills {
+  color: lightgrey;
+  text-align: left;
+  margin-left: 2em;
+}
+
+#tim {
+  margin-right: 2rem;
+  margin-left: 2rem;
+  margin-bottom: 0.5em;
+}
