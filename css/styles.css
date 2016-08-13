@@ -73,6 +73,7 @@ li {
   font-weight: bolder;
   margin-top: .5em;
   margin-bottom: 2em;
+  font-size: 35px;
 }
 
 .mid-bottom {
@@ -89,5 +90,4 @@ li {
 #tim {
   margin-right: 2rem;
   margin-left: 2rem;
-  margin-bottom: 0.5em;
 }
